@@ -7,9 +7,11 @@
 ### My journey solving LeetCode problems — one commit at a time.
 
 <p>
-  <img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  <a href="https://leetcode.com/u/sayanpal771/" target="_blank">
+    <img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
   <img src="https://img.shields.io/badge/Solutions-Updated-success?style=for-the-badge" alt="Solutions Updated"/>
-  <img src="https://img.shields.io/badge/Language-Multiple-blue?style=for-the-badge" alt="Languages"/>
+  <img src="https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 </p>
 
 <p>
@@ -48,7 +50,7 @@ The goal of this repo is to:
 
 ---
 
-## 🛠️ Languages Used
+## 🛠️ Language Used
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -60,7 +62,7 @@ The goal of this repo is to:
 
 1. Browse by difficulty folder (`Easy`, `Medium`, `Hard`)
 2. Or use the search bar (`Ctrl+F` / `Cmd+F` on GitHub) to find a specific problem by name or number
-3. Each folder is named as `XXXX-problem-title` matching the LeetCode problem number
+3. Each folder is named as `XXXX-problem-title` matching the LeetCode problem number, with the solution in `Solution.java`
 
 ---
 
