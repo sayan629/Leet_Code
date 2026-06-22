@@ -46,7 +46,7 @@ The goal of this repo is to:
 | 🔴 Hard    | 0      |
 | **Total**  | **2**  |
 
-> *Update this table as you solve more problems!*
+> *Problems Tracker !!*
 
 ---
 
