@@ -94,6 +94,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sayan629/Leet_Code/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sayan629/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -102,6 +103,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sayan629/Leet_Code/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sayan629/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -111,4 +113,8 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sayan629/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/sayan629/Leet_Code/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
