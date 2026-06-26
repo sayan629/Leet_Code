@@ -98,6 +98,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0042-trapping-rain-water](https://github.com/sayan629/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sayan629/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/sayan629/Leet_Code/tree/master/0283-move-zeroes) |
+| [0845-longest-mountain-in-array](https://github.com/sayan629/Leet_Code/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -123,11 +124,13 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0015-3sum](https://github.com/sayan629/Leet_Code/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/sayan629/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/sayan629/Leet_Code/tree/master/0283-move-zeroes) |
+| [0845-longest-mountain-in-array](https://github.com/sayan629/Leet_Code/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sayan629/Leet_Code/tree/master/0042-trapping-rain-water) |
+| [0845-longest-mountain-in-array](https://github.com/sayan629/Leet_Code/tree/master/0845-longest-mountain-in-array) |
 ## Stack
 |  |
 | ------- |
@@ -136,4 +139,8 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sayan629/Leet_Code/tree/master/0042-trapping-rain-water) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/sayan629/Leet_Code/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
