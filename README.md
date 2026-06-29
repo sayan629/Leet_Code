@@ -114,6 +114,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0016-3sum-closest](https://github.com/sayan629/Leet_Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sayan629/Leet_Code/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sayan629/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/sayan629/Leet_Code/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
@@ -162,4 +163,12 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sayan629/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sayan629/Leet_Code/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sayan629/Leet_Code/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
