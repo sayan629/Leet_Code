@@ -195,10 +195,16 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/sayan629/Leet_Code/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/sayan629/Leet_Code/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/sayan629/Leet_Code/tree/master/0415-add-strings) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/sayan629/Leet_Code/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/sayan629/Leet_Code/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/sayan629/Leet_Code/tree/master/0415-add-strings) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sayan629/Leet_Code/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
