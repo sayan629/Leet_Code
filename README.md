@@ -176,6 +176,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/sayan629/Leet_Code/tree/master/0006-zigzag-conversion) |
 | [0043-multiply-strings](https://github.com/sayan629/Leet_Code/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/sayan629/Leet_Code/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/sayan629/Leet_Code/tree/master/0151-reverse-words-in-a-string) |
