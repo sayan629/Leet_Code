@@ -178,6 +178,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/sayan629/Leet_Code/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/sayan629/Leet_Code/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/sayan629/Leet_Code/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/sayan629/Leet_Code/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/sayan629/Leet_Code/tree/master/0049-group-anagrams) |
