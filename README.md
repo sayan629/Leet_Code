@@ -202,6 +202,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/sayan629/Leet_Code/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/sayan629/Leet_Code/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/sayan629/Leet_Code/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/sayan629/Leet_Code/tree/master/0258-add-digits) |
