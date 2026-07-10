@@ -185,6 +185,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0043-multiply-strings](https://github.com/sayan629/Leet_Code/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/sayan629/Leet_Code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sayan629/Leet_Code/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sayan629/Leet_Code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sayan629/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sayan629/Leet_Code/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sayan629/Leet_Code/tree/master/0205-isomorphic-strings) |
@@ -206,12 +207,14 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0007-reverse-integer](https://github.com/sayan629/Leet_Code/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/sayan629/Leet_Code/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/sayan629/Leet_Code/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/sayan629/Leet_Code/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sayan629/Leet_Code/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/sayan629/Leet_Code/tree/master/0415-add-strings) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/sayan629/Leet_Code/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/sayan629/Leet_Code/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sayan629/Leet_Code/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/sayan629/Leet_Code/tree/master/0415-add-strings) |
 ## Number Theory
@@ -222,4 +225,8 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/sayan629/Leet_Code/tree/master/0409-longest-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sayan629/Leet_Code/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
