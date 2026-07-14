@@ -103,6 +103,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0215-kth-largest-element-in-an-array](https://github.com/sayan629/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/sayan629/Leet_Code/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/sayan629/Leet_Code/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sayan629/Leet_Code/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sayan629/Leet_Code/tree/master/0739-daily-temperatures) |
 | [0845-longest-mountain-in-array](https://github.com/sayan629/Leet_Code/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
@@ -151,12 +152,14 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sayan629/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sayan629/Leet_Code/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sayan629/Leet_Code/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sayan629/Leet_Code/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sayan629/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sayan629/Leet_Code/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sayan629/Leet_Code/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sayan629/Leet_Code/tree/master/0739-daily-temperatures) |
 ## Enumeration
 |  |
