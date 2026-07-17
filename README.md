@@ -205,6 +205,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0242-valid-anagram](https://github.com/sayan629/Leet_Code/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sayan629/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/sayan629/Leet_Code/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/sayan629/Leet_Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sayan629/Leet_Code/tree/master/0415-add-strings) |
 ## Queue
 |  |
@@ -222,6 +223,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0043-multiply-strings](https://github.com/sayan629/Leet_Code/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/sayan629/Leet_Code/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sayan629/Leet_Code/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/sayan629/Leet_Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sayan629/Leet_Code/tree/master/0415-add-strings) |
 | [1025-divisor-game](https://github.com/sayan629/Leet_Code/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sayan629/Leet_Code/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -231,6 +233,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0043-multiply-strings](https://github.com/sayan629/Leet_Code/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/sayan629/Leet_Code/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sayan629/Leet_Code/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/sayan629/Leet_Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sayan629/Leet_Code/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
