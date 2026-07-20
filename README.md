@@ -101,6 +101,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0049-group-anagrams](https://github.com/sayan629/Leet_Code/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/sayan629/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sayan629/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/sayan629/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sayan629/Leet_Code/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/sayan629/Leet_Code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sayan629/Leet_Code/tree/master/0503-next-greater-element-ii) |
@@ -119,6 +120,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0018-4sum](https://github.com/sayan629/Leet_Code/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/sayan629/Leet_Code/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sayan629/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/sayan629/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sayan629/Leet_Code/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
@@ -185,6 +187,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0049-group-anagrams](https://github.com/sayan629/Leet_Code/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/sayan629/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/sayan629/Leet_Code/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/sayan629/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sayan629/Leet_Code/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sayan629/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/sayan629/Leet_Code/tree/master/0409-longest-palindrome) |
