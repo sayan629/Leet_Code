@@ -99,6 +99,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0018-4sum](https://github.com/sayan629/Leet_Code/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/sayan629/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/sayan629/Leet_Code/tree/master/0049-group-anagrams) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sayan629/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sayan629/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sayan629/Leet_Code/tree/master/0217-contains-duplicate) |
@@ -172,6 +173,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sayan629/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
