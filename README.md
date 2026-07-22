@@ -97,6 +97,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0015-3sum](https://github.com/sayan629/Leet_Code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sayan629/Leet_Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sayan629/Leet_Code/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/sayan629/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/sayan629/Leet_Code/tree/master/0049-group-anagrams) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -173,6 +174,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sayan629/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
