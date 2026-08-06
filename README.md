@@ -155,6 +155,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sayan629/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sayan629/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/sayan629/Leet_Code/tree/master/0338-counting-bits) |
 | [0845-longest-mountain-in-array](https://github.com/sayan629/Leet_Code/tree/master/0845-longest-mountain-in-array) |
 | [1025-divisor-game](https://github.com/sayan629/Leet_Code/tree/master/1025-divisor-game) |
 ## Stack
@@ -266,6 +267,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | ------- |
 | [0067-add-binary](https://github.com/sayan629/Leet_Code/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/sayan629/Leet_Code/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/sayan629/Leet_Code/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/sayan629/Leet_Code/tree/master/0371-sum-of-two-integers) |
 ## Linked List
 |  |
