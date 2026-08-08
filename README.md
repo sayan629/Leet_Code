@@ -178,6 +178,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/sayan629/Leet_Code/tree/master/0845-longest-mountain-in-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sayan629/Leet_Code/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -247,6 +248,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0412-fizz-buzz](https://github.com/sayan629/Leet_Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sayan629/Leet_Code/tree/master/0415-add-strings) |
 | [1025-divisor-game](https://github.com/sayan629/Leet_Code/tree/master/1025-divisor-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sayan629/Leet_Code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sayan629/Leet_Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
