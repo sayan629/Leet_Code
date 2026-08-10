@@ -41,10 +41,10 @@ The goal of this repo is to:
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy    | 22     |
+| 🟢 Easy    | 24     |
 | 🟡 Medium  | 20      |
 | 🔴 Hard    | 1      |
-| **Total**  | **43**  |
+| **Total**  | **45**  |
 
 > *Problems Tracker !!*
 
