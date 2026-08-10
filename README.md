@@ -280,6 +280,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sayan629/Leet_Code/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/sayan629/Leet_Code/tree/master/0206-reverse-linked-list) |
 ## Brainteaser
 |  |
 | ------- |
@@ -292,4 +293,8 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sayan629/Leet_Code/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sayan629/Leet_Code/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
