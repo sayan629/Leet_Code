@@ -279,6 +279,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sayan629/Leet_Code/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sayan629/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/sayan629/Leet_Code/tree/master/0206-reverse-linked-list) |
 ## Brainteaser
@@ -296,5 +297,6 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sayan629/Leet_Code/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sayan629/Leet_Code/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
