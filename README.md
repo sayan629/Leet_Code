@@ -40,11 +40,11 @@ The goal of this repo is to:
 ## 📊 Progress
 
 | Difficulty | Solved |
-|------------|--------|
-| 🟢 Easy    |5 2     |
-| 🟡 Medium  | 20      |
+|------------|--------|  
+| 🟢 Easy    | 25     |
+| 🟡 Medium  | 21      |
 | 🔴 Hard    | 1      |
-| **Total**  | **46**  |
+| **Total**  | **47**  |
 
 > *Problems Tracker !!*
 
