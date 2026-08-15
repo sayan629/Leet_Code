@@ -14,6 +14,8 @@ class Solution {
         while(head==null || head.next == null || head.next.next == null){
             return;
         }
+
+        // Middle of LL
         ListNode slow = head;
         ListNode fast = head;
         while(fast != null && fast.next !=null){
@@ -35,7 +37,8 @@ class Solution {
             prev = curr;
             curr = nextnode;
         }
-
+        
+        // Join t2 with t1
         ListNode t1 = head;
         ListNode t2 = prev;
         while(t2 != null){
