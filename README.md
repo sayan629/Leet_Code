@@ -144,6 +144,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sayan629/Leet_Code/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/sayan629/Leet_Code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sayan629/Leet_Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sayan629/Leet_Code/tree/master/0018-4sum) |
@@ -161,6 +162,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sayan629/Leet_Code/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sayan629/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/sayan629/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sayan629/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -221,6 +223,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sayan629/Leet_Code/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sayan629/Leet_Code/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/sayan629/Leet_Code/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/sayan629/Leet_Code/tree/master/0012-integer-to-roman) |
@@ -317,4 +320,8 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/sayan629/Leet_Code/tree/master/0561-array-partition) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sayan629/Leet_Code/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
