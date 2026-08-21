@@ -112,6 +112,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0496-next-greater-element-i](https://github.com/sayan629/Leet_Code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sayan629/Leet_Code/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/sayan629/Leet_Code/tree/master/0561-array-partition) |
+| [0704-binary-search](https://github.com/sayan629/Leet_Code/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sayan629/Leet_Code/tree/master/0739-daily-temperatures) |
 | [0845-longest-mountain-in-array](https://github.com/sayan629/Leet_Code/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
@@ -198,6 +199,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sayan629/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sayan629/Leet_Code/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/sayan629/Leet_Code/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
