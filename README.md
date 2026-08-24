@@ -42,9 +42,9 @@ The goal of this repo is to:
 | Difficulty | Solved |
 |------------|--------|  
 | 🟢 Easy    | 29     |
-| 🟡 Medium  | 27      |
+| 🟡 Medium  | 28      |
 | 🔴 Hard    | 1      |
-| **Total**  | **57**  |
+| **Total**  | **58**  |
 
 > *Problems Tracker !!*
 
