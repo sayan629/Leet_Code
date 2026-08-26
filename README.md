@@ -270,6 +270,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0043-multiply-strings](https://github.com/sayan629/Leet_Code/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/sayan629/Leet_Code/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sayan629/Leet_Code/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/sayan629/Leet_Code/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sayan629/Leet_Code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sayan629/Leet_Code/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/sayan629/Leet_Code/tree/master/0371-sum-of-two-integers) |
@@ -300,6 +301,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sayan629/Leet_Code/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/sayan629/Leet_Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sayan629/Leet_Code/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/sayan629/Leet_Code/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/sayan629/Leet_Code/tree/master/0371-sum-of-two-integers) |
@@ -330,6 +332,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0021-merge-two-sorted-lists](https://github.com/sayan629/Leet_Code/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/sayan629/Leet_Code/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sayan629/Leet_Code/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sayan629/Leet_Code/tree/master/0231-power-of-two) |
 ## Counting Sort
 |  |
 | ------- |
