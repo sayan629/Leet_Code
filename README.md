@@ -3,8 +3,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" width="150"/>
 
 # 🚀 LeetCode Solutions
-
 ### My journey solving LeetCode problems — one commit at a time.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Sayan's%20DSA%20%26%20SQL%20Journey&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <p>
   <a href="https://leetcode.com/u/sayanpal771/" target="_blank">
@@ -12,6 +13,7 @@
   </a>
   <img src="https://img.shields.io/badge/Solutions-Updated-success?style=for-the-badge" alt="Solutions Updated"/>
   <img src="https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Database-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
 <p>
@@ -26,61 +28,68 @@
 
 ## 📖 About
 
-This repository contains my solutions to **LeetCode** problems, organized by difficulty and topic. Each solution includes the problem statement link, my approach, time & space complexity, and clean, commented code.
+This repository contains my solutions to **LeetCode** problems, organized by difficulty and topic. Each solution includes the problem statement link, my approach, time & space complexity, and clean, commented code. It now also includes my **SQL** practice problems alongside the DSA solutions.
 
 The goal of this repo is to:
-
 - 📝 Track my problem-solving progress
-- 🧠 Practice and revise data structures & algorithms
+- 🧠 Practice and revise data structures, algorithms & SQL
 - 🤝 Help others who are learning by sharing clear explanations
 - 🔁 Build a habit of consistent daily practice
 
 ---
 
-## 📊 Progress
+## 📊 DSA Progress
 
-| Difficulty | Solved |
-|------------|--------|  
-| 🟢 Easy    | 29     |
-| 🟡 Medium  | 29      |
-| 🔴 Hard    | 1      |
-| **Total**  | **59**  |
+<div align="center">
 
-> *Problems Tracker !!*
+| Difficulty | Solved | Progress |
+|:----------:|:------:|:--------:|
+| 🟢 Easy    | 29     | ![Easy](https://progress-bar.xyz/29/?scale=29&suffix=%20&color=2ecc71&width=140) |
+| 🟡 Medium  | 29     | ![Medium](https://progress-bar.xyz/29/?scale=29&suffix=%20&color=f1c40f&width=140) |
+| 🔴 Hard    | 1      | ![Hard](https://progress-bar.xyz/1/?scale=1&suffix=%20&color=e74c3c&width=140) |
+| **Total**  | **59** | |
+
+> *Problems Tracker — DSA!!*
+
+</div>
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Database"/>
-</p>
 
 ## 🗄️ SQL Progress
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Database"/>
 
 | Difficulty | Solved |
-|------------|--------|
-| 🟢 Easy | 1 |
-| 🟡 Medium | 0 |
-| 🔴 Hard | 0 |
-| **Total** | **1** |
+|:----------:|:------:|
+| 🟢 Easy    | 1      |
+| 🟡 Medium  | 0      |
+| 🔴 Hard    | 0      |
+| **Total**  | **1**  |
 
 > *💾 SQL Problems Tracker*
 
+</div>
+
 ---
 
-## 🛠️ Language Used
+## 🛠️ Languages & Tools
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
 ## 🔍 How to Navigate
 
-1. Browse by difficulty folder (`Easy`, `Medium`, `Hard`)
+1. Browse by difficulty folder (`Easy`, `Medium`, `Hard`) or the dedicated `SQL` folder
 2. Or use the search bar (`Ctrl+F` / `Cmd+F` on GitHub) to find a specific problem by name or number
-3. Each folder is named as `XXXX-problem-title` matching the LeetCode problem number, with the solution in `Solution.java`
+3. Each folder is named as `XXXX-problem-title` matching the LeetCode problem number, with the solution in `Solution.java` (or `Solution.sql` for SQL problems)
 
 ---
 
@@ -102,6 +111,8 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
 
 **Happy Coding! 💻🔥**
 
