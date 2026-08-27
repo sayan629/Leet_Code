@@ -313,6 +313,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0141-linked-list-cycle](https://github.com/sayan629/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/sayan629/Leet_Code/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sayan629/Leet_Code/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/sayan629/Leet_Code/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sayan629/Leet_Code/tree/master/0876-middle-of-the-linked-list) |
 ## Brainteaser
 |  |
