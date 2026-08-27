@@ -50,7 +50,12 @@ The goal of this repo is to:
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Database"/>
+</p>
+
 ## 🗄️ SQL Progress
+
 
 | Difficulty | Solved |
 |------------|--------|
