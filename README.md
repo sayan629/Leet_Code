@@ -5,7 +5,7 @@
 # 🚀 LeetCode Solutions
 ### My journey solving LeetCode problems — one commit at a time.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Sayan's%20DSA%20%26%20SQL%20Journey&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Sayan's%20DSA%20%26%20SQL%20Journey&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%"/> -->
 
 <p>
   <a href="https://leetcode.com/u/sayanpal771/" target="_blank">
@@ -111,8 +111,6 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
 
 **Happy Coding! 💻🔥**
 
