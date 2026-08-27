@@ -63,10 +63,10 @@ The goal of this repo is to:
 
 | Difficulty | Solved |
 |:----------:|:------:|
-| 🟢 Easy    | 2      |
+| 🟢 Easy    | 5      |
 | 🟡 Medium  | 0      |
 | 🔴 Hard    | 0      |
-| **Total**  | **2**  |
+| **Total**  | **5**  |
 
 > *💾 SQL Problems Tracker*
 
