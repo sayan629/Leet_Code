@@ -372,5 +372,6 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/sayan629/Leet_Code/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sayan629/Leet_Code/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
