@@ -342,4 +342,8 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sayan629/Leet_Code/tree/master/0005-longest-palindromic-substring) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/sayan629/Leet_Code/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
