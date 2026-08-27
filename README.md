@@ -50,6 +50,19 @@ The goal of this repo is to:
 
 ---
 
+## 🗄️ SQL Progress
+
+| Difficulty | Solved |
+|------------|--------|
+| 🟢 Easy | 1 |
+| 🟡 Medium | 0 |
+| 🔴 Hard | 0 |
+| **Total** | **1** |
+
+> *💾 SQL Problems Tracker*
+
+---
+
 ## 🛠️ Language Used
 
 <p>
