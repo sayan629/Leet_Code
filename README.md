@@ -132,6 +132,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sayan629/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sayan629/Leet_Code/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/sayan629/Leet_Code/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sayan629/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sayan629/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sayan629/Leet_Code/tree/master/0217-contains-duplicate) |
@@ -152,6 +153,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sayan629/Leet_Code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sayan629/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -161,6 +163,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0018-4sum](https://github.com/sayan629/Leet_Code/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/sayan629/Leet_Code/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/sayan629/Leet_Code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sayan629/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sayan629/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sayan629/Leet_Code/tree/master/0242-valid-anagram) |
@@ -254,6 +257,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0012-integer-to-roman](https://github.com/sayan629/Leet_Code/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/sayan629/Leet_Code/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/sayan629/Leet_Code/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/sayan629/Leet_Code/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sayan629/Leet_Code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sayan629/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sayan629/Leet_Code/tree/master/0242-valid-anagram) |
@@ -291,6 +295,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sayan629/Leet_Code/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sayan629/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
@@ -383,4 +388,8 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [1148-article-views-i](https://github.com/sayan629/Leet_Code/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/sayan629/Leet_Code/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sayan629/Leet_Code/tree/master/1757-recyclable-and-low-fat-products) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sayan629/Leet_Code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
