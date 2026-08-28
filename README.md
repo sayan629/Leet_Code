@@ -146,6 +146,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0704-binary-search](https://github.com/sayan629/Leet_Code/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sayan629/Leet_Code/tree/master/0739-daily-temperatures) |
 | [0845-longest-mountain-in-array](https://github.com/sayan629/Leet_Code/tree/master/0845-longest-mountain-in-array) |
+| [0877-stone-game](https://github.com/sayan629/Leet_Code/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sayan629/Leet_Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sayan629/Leet_Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -208,6 +209,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0338-counting-bits](https://github.com/sayan629/Leet_Code/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/sayan629/Leet_Code/tree/master/0647-palindromic-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/sayan629/Leet_Code/tree/master/0845-longest-mountain-in-array) |
+| [0877-stone-game](https://github.com/sayan629/Leet_Code/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/sayan629/Leet_Code/tree/master/1025-divisor-game) |
 ## Stack
 |  |
@@ -311,6 +313,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0371-sum-of-two-integers](https://github.com/sayan629/Leet_Code/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/sayan629/Leet_Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sayan629/Leet_Code/tree/master/0415-add-strings) |
+| [0877-stone-game](https://github.com/sayan629/Leet_Code/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/sayan629/Leet_Code/tree/master/1025-divisor-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sayan629/Leet_Code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sayan629/Leet_Code/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -357,6 +360,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/sayan629/Leet_Code/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/sayan629/Leet_Code/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
@@ -392,4 +396,12 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sayan629/Leet_Code/tree/master/0169-majority-element) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sayan629/Leet_Code/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sayan629/Leet_Code/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
