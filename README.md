@@ -392,6 +392,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0595-big-countries](https://github.com/sayan629/Leet_Code/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/sayan629/Leet_Code/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/sayan629/Leet_Code/tree/master/1148-article-views-i) |
+| [1193-monthly-transactions-i](https://github.com/sayan629/Leet_Code/tree/master/1193-monthly-transactions-i) |
 | [1683-invalid-tweets](https://github.com/sayan629/Leet_Code/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sayan629/Leet_Code/tree/master/1757-recyclable-and-low-fat-products) |
 ## Boyer–Moore Majority Vote Algorithm
