@@ -128,6 +128,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/sayan629/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/sayan629/Leet_Code/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/sayan629/Leet_Code/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sayan629/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/sayan629/Leet_Code/tree/master/0134-gas-station) |
@@ -205,6 +206,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sayan629/Leet_Code/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sayan629/Leet_Code/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/sayan629/Leet_Code/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sayan629/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sayan629/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/sayan629/Leet_Code/tree/master/0338-counting-bits) |
@@ -334,6 +336,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sayan629/Leet_Code/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/sayan629/Leet_Code/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/sayan629/Leet_Code/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/sayan629/Leet_Code/tree/master/0561-array-partition) |
