@@ -141,6 +141,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0238-product-of-array-except-self](https://github.com/sayan629/Leet_Code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sayan629/Leet_Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sayan629/Leet_Code/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/sayan629/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/sayan629/Leet_Code/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sayan629/Leet_Code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sayan629/Leet_Code/tree/master/0503-next-greater-element-ii) |
@@ -171,6 +172,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0217-contains-duplicate](https://github.com/sayan629/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sayan629/Leet_Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sayan629/Leet_Code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sayan629/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/sayan629/Leet_Code/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/sayan629/Leet_Code/tree/master/3731-find-missing-elements) |
@@ -197,6 +199,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0143-reorder-list](https://github.com/sayan629/Leet_Code/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sayan629/Leet_Code/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/sayan629/Leet_Code/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/sayan629/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0647-palindromic-substrings](https://github.com/sayan629/Leet_Code/tree/master/0647-palindromic-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/sayan629/Leet_Code/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/sayan629/Leet_Code/tree/master/0876-middle-of-the-linked-list) |
@@ -243,6 +246,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0162-find-peak-element](https://github.com/sayan629/Leet_Code/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sayan629/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sayan629/Leet_Code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sayan629/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sayan629/Leet_Code/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sayan629/Leet_Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sayan629/Leet_Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -267,6 +271,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0217-contains-duplicate](https://github.com/sayan629/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sayan629/Leet_Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sayan629/Leet_Code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sayan629/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/sayan629/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/sayan629/Leet_Code/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/sayan629/Leet_Code/tree/master/0424-longest-repeating-character-replacement) |
