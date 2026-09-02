@@ -200,6 +200,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0151-reverse-words-in-a-string](https://github.com/sayan629/Leet_Code/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/sayan629/Leet_Code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sayan629/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/sayan629/Leet_Code/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/sayan629/Leet_Code/tree/master/0647-palindromic-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/sayan629/Leet_Code/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/sayan629/Leet_Code/tree/master/0876-middle-of-the-linked-list) |
@@ -213,6 +214,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0070-climbing-stairs](https://github.com/sayan629/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sayan629/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/sayan629/Leet_Code/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/sayan629/Leet_Code/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/sayan629/Leet_Code/tree/master/0647-palindromic-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/sayan629/Leet_Code/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/sayan629/Leet_Code/tree/master/0877-stone-game) |
@@ -293,6 +295,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0205-isomorphic-strings](https://github.com/sayan629/Leet_Code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sayan629/Leet_Code/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sayan629/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/sayan629/Leet_Code/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/sayan629/Leet_Code/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/sayan629/Leet_Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sayan629/Leet_Code/tree/master/0415-add-strings) |
