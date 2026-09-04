@@ -155,6 +155,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sayan629/Leet_Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [3731-find-missing-elements](https://github.com/sayan629/Leet_Code/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sayan629/Leet_Code/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/sayan629/Leet_Code/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -263,6 +264,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sayan629/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sayan629/Leet_Code/tree/master/0238-product-of-array-except-self) |
+| [3903-smallest-stable-index-i](https://github.com/sayan629/Leet_Code/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
