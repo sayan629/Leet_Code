@@ -215,6 +215,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0042-trapping-rain-water](https://github.com/sayan629/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/sayan629/Leet_Code/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sayan629/Leet_Code/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/sayan629/Leet_Code/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sayan629/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/sayan629/Leet_Code/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sayan629/Leet_Code/tree/master/0392-is-subsequence) |
@@ -295,6 +296,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0049-group-anagrams](https://github.com/sayan629/Leet_Code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sayan629/Leet_Code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sayan629/Leet_Code/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/sayan629/Leet_Code/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/sayan629/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sayan629/Leet_Code/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sayan629/Leet_Code/tree/master/0205-isomorphic-strings) |
