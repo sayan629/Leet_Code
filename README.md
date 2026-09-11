@@ -44,7 +44,7 @@ The goal of this repo is to:
 
 | Difficulty | Solved | Progress |
 |:----------:|:------:|:--------:|
-| 🟢 Easy    | 36     | ![Easy](https://progress-bar.xyz/36/?scale=29&suffix=%20&color=2ecc71&width=140) |
+| 🟢 Easy    | 37     | ![Easy](https://progress-bar.xyz/37/?scale=29&suffix=%20&color=2ecc71&width=140) |
 | 🟡 Medium  | 35     | ![Medium](https://progress-bar.xyz/35/?scale=29&suffix=%20&color=f1c40f&width=140) |
 | 🔴 Hard    | 3      | ![Hard](https://progress-bar.xyz/2/?scale=1&suffix=%20&color=e74c3c&width=140) |
 | **Total**  | ![](https://progress-bar.xyz/74/?scale=1&suffix=%20&color=e74c3c&width=140) | 
