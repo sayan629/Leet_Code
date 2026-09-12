@@ -146,6 +146,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0496-next-greater-element-i](https://github.com/sayan629/Leet_Code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sayan629/Leet_Code/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/sayan629/Leet_Code/tree/master/0561-array-partition) |
+| [0643-maximum-average-subarray-i](https://github.com/sayan629/Leet_Code/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sayan629/Leet_Code/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sayan629/Leet_Code/tree/master/0739-daily-temperatures) |
 | [0845-longest-mountain-in-array](https://github.com/sayan629/Leet_Code/tree/master/0845-longest-mountain-in-array) |
@@ -268,6 +269,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sayan629/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sayan629/Leet_Code/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/sayan629/Leet_Code/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
