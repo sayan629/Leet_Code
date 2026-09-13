@@ -153,6 +153,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0845-longest-mountain-in-array](https://github.com/sayan629/Leet_Code/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/sayan629/Leet_Code/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/sayan629/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sayan629/Leet_Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sayan629/Leet_Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sayan629/Leet_Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -262,6 +263,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0268-missing-number](https://github.com/sayan629/Leet_Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sayan629/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sayan629/Leet_Code/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/sayan629/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sayan629/Leet_Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sayan629/Leet_Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sayan629/Leet_Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -271,11 +273,13 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0209-minimum-size-subarray-sum](https://github.com/sayan629/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sayan629/Leet_Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/sayan629/Leet_Code/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/sayan629/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sayan629/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sayan629/Leet_Code/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/sayan629/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/sayan629/Leet_Code/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sayan629/Leet_Code/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
