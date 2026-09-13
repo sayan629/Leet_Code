@@ -47,7 +47,7 @@ The goal of this repo is to:
 | 🟢 Easy    | 38     | ![Easy](https://progress-bar.xyz/38/?scale=29&suffix=%20&color=2ecc71&width=140) |
 | 🟡 Medium  | 37     | ![Medium](https://progress-bar.xyz/37/?scale=29&suffix=%20&color=f1c40f&width=140) |
 | 🔴 Hard    | 4      | ![Hard](https://progress-bar.xyz/4/?scale=1&suffix=%20&color=e74c3c&width=140) |
-| **Total**  | ![](https://progress-bar.xyz/78/?scale=1&suffix=%20&color=e74c3c&width=140) | 
+| **Total**  | ![](https://progress-bar.xyz/79/?scale=1&suffix=%20&color=e74c3c&width=140) | 
 
 > *Problems Tracker — DSA!!*
 
