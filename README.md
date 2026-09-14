@@ -347,6 +347,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0371-sum-of-two-integers](https://github.com/sayan629/Leet_Code/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/sayan629/Leet_Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sayan629/Leet_Code/tree/master/0415-add-strings) |
+| [0836-rectangle-overlap](https://github.com/sayan629/Leet_Code/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sayan629/Leet_Code/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/sayan629/Leet_Code/tree/master/1025-divisor-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sayan629/Leet_Code/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -464,4 +465,8 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/sayan629/Leet_Code/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sayan629/Leet_Code/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
