@@ -151,6 +151,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0739-daily-temperatures](https://github.com/sayan629/Leet_Code/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/sayan629/Leet_Code/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/sayan629/Leet_Code/tree/master/0845-longest-mountain-in-array) |
+| [0867-transpose-matrix](https://github.com/sayan629/Leet_Code/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sayan629/Leet_Code/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sayan629/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
@@ -366,6 +367,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0258-add-digits](https://github.com/sayan629/Leet_Code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sayan629/Leet_Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sayan629/Leet_Code/tree/master/0415-add-strings) |
+| [0867-transpose-matrix](https://github.com/sayan629/Leet_Code/tree/master/0867-transpose-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -473,6 +475,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/sayan629/Leet_Code/tree/master/0835-image-overlap) |
+| [0867-transpose-matrix](https://github.com/sayan629/Leet_Code/tree/master/0867-transpose-matrix) |
 ## Geometry
 |  |
 | ------- |
