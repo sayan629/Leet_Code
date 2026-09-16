@@ -149,6 +149,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0643-maximum-average-subarray-i](https://github.com/sayan629/Leet_Code/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sayan629/Leet_Code/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sayan629/Leet_Code/tree/master/0739-daily-temperatures) |
+| [0766-toeplitz-matrix](https://github.com/sayan629/Leet_Code/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/sayan629/Leet_Code/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/sayan629/Leet_Code/tree/master/0845-longest-mountain-in-array) |
 | [0867-transpose-matrix](https://github.com/sayan629/Leet_Code/tree/master/0867-transpose-matrix) |
@@ -477,6 +478,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ## Matrix
 |  |
 | ------- |
+| [0766-toeplitz-matrix](https://github.com/sayan629/Leet_Code/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/sayan629/Leet_Code/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/sayan629/Leet_Code/tree/master/0867-transpose-matrix) |
 ## Geometry
