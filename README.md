@@ -188,6 +188,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0349-intersection-of-two-arrays](https://github.com/sayan629/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/sayan629/Leet_Code/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sayan629/Leet_Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sayan629/Leet_Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/sayan629/Leet_Code/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -311,6 +312,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0424-longest-repeating-character-replacement](https://github.com/sayan629/Leet_Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/sayan629/Leet_Code/tree/master/0496-next-greater-element-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sayan629/Leet_Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sayan629/Leet_Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sayan629/Leet_Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/sayan629/Leet_Code/tree/master/3731-find-missing-elements) |
 ## String
@@ -337,6 +339,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0424-longest-repeating-character-replacement](https://github.com/sayan629/Leet_Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/sayan629/Leet_Code/tree/master/0647-palindromic-substrings) |
 | [0940-distinct-subsequences-ii](https://github.com/sayan629/Leet_Code/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sayan629/Leet_Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sayan629/Leet_Code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Queue
 |  |
@@ -391,6 +394,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0134-gas-station](https://github.com/sayan629/Leet_Code/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/sayan629/Leet_Code/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/sayan629/Leet_Code/tree/master/0561-array-partition) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sayan629/Leet_Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sayan629/Leet_Code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bit Manipulation
 |  |
