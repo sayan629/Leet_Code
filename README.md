@@ -367,6 +367,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0836-rectangle-overlap](https://github.com/sayan629/Leet_Code/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sayan629/Leet_Code/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/sayan629/Leet_Code/tree/master/1025-divisor-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sayan629/Leet_Code/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sayan629/Leet_Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sayan629/Leet_Code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sayan629/Leet_Code/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -503,6 +504,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sayan629/Leet_Code/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sayan629/Leet_Code/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |
