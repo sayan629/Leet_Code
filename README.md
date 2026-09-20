@@ -341,6 +341,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0940-distinct-subsequences-ii](https://github.com/sayan629/Leet_Code/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sayan629/Leet_Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sayan629/Leet_Code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/sayan629/Leet_Code/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
 | ------- |
@@ -383,6 +384,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0412-fizz-buzz](https://github.com/sayan629/Leet_Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sayan629/Leet_Code/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/sayan629/Leet_Code/tree/master/0867-transpose-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/sayan629/Leet_Code/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
