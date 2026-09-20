@@ -160,6 +160,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sayan629/Leet_Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sayan629/Leet_Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/sayan629/Leet_Code/tree/master/1572-matrix-diagonal-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sayan629/Leet_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3033-modify-the-matrix](https://github.com/sayan629/Leet_Code/tree/master/3033-modify-the-matrix) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sayan629/Leet_Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sayan629/Leet_Code/tree/master/3483-unique-3-digit-even-numbers) |
@@ -370,6 +371,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [1025-divisor-game](https://github.com/sayan629/Leet_Code/tree/master/1025-divisor-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sayan629/Leet_Code/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sayan629/Leet_Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sayan629/Leet_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sayan629/Leet_Code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sayan629/Leet_Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/sayan629/Leet_Code/tree/master/3870-count-commas-in-range) |
@@ -389,6 +391,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sayan629/Leet_Code/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sayan629/Leet_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sayan629/Leet_Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
@@ -511,4 +514,12 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sayan629/Leet_Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sayan629/Leet_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sayan629/Leet_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
