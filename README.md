@@ -44,10 +44,10 @@ The goal of this repo is to:
 
 | Difficulty | Solved | Progress |
 |:----------:|:------:|:--------:|
-| 🟢 Easy    | 43     | ![Easy](https://progress-bar.xyz/43/?scale=29&suffix=%20&color=2ecc71&width=140) |
+| 🟢 Easy    | 44     | ![Easy](https://progress-bar.xyz/44/?scale=29&suffix=%20&color=2ecc71&width=140) |
 | 🟡 Medium  | 40     | ![Medium](https://progress-bar.xyz/40/?scale=29&suffix=%20&color=f1c40f&width=140) |
 | 🔴 Hard    | 6      | ![Hard](https://progress-bar.xyz/5/?scale=1&suffix=%20&color=e74c3c&width=140) |
-| **Total**  | ![](https://progress-bar.xyz/89/?scale=1&suffix=%20&color=e74c3c&width=140) | 
+| **Total**  | ![](https://progress-bar.xyz/90/?scale=1&suffix=%20&color=e74c3c&width=140) | 
 
 > *Problems Tracker — DSA!!*
 
