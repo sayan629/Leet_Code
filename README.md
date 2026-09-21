@@ -474,6 +474,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [1193-monthly-transactions-i](https://github.com/sayan629/Leet_Code/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/sayan629/Leet_Code/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/sayan629/Leet_Code/tree/master/1341-movie-rating) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sayan629/Leet_Code/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/sayan629/Leet_Code/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sayan629/Leet_Code/tree/master/1757-recyclable-and-low-fat-products) |
 ## Boyer–Moore Majority Vote Algorithm
