@@ -165,6 +165,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sayan629/Leet_Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sayan629/Leet_Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/sayan629/Leet_Code/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/sayan629/Leet_Code/tree/master/3525-find-x-value-of-array-ii) |
 | [3731-find-missing-elements](https://github.com/sayan629/Leet_Code/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sayan629/Leet_Code/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/sayan629/Leet_Code/tree/master/3903-smallest-stable-index-i) |
@@ -376,6 +377,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sayan629/Leet_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sayan629/Leet_Code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/sayan629/Leet_Code/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/sayan629/Leet_Code/tree/master/3525-find-x-value-of-array-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sayan629/Leet_Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/sayan629/Leet_Code/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sayan629/Leet_Code/tree/master/3871-count-commas-in-range-ii) |
@@ -528,4 +530,8 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sayan629/Leet_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/sayan629/Leet_Code/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
