@@ -160,6 +160,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sayan629/Leet_Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sayan629/Leet_Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/sayan629/Leet_Code/tree/master/1572-matrix-diagonal-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sayan629/Leet_Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sayan629/Leet_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3033-modify-the-matrix](https://github.com/sayan629/Leet_Code/tree/master/3033-modify-the-matrix) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sayan629/Leet_Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -281,6 +282,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sayan629/Leet_Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sayan629/Leet_Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sayan629/Leet_Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sayan629/Leet_Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sayan629/Leet_Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sliding Window
 |  |
@@ -290,6 +292,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0643-maximum-average-subarray-i](https://github.com/sayan629/Leet_Code/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/sayan629/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sayan629/Leet_Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sayan629/Leet_Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -297,6 +300,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0238-product-of-array-except-self](https://github.com/sayan629/Leet_Code/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/sayan629/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sayan629/Leet_Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sayan629/Leet_Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/sayan629/Leet_Code/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sayan629/Leet_Code/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -317,6 +321,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0496-next-greater-element-i](https://github.com/sayan629/Leet_Code/tree/master/0496-next-greater-element-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sayan629/Leet_Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sayan629/Leet_Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sayan629/Leet_Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sayan629/Leet_Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/sayan629/Leet_Code/tree/master/3731-find-missing-elements) |
 ## String
