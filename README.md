@@ -193,6 +193,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0349-intersection-of-two-arrays](https://github.com/sayan629/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/sayan629/Leet_Code/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/sayan629/Leet_Code/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sayan629/Leet_Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sayan629/Leet_Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/sayan629/Leet_Code/tree/master/3731-find-missing-elements) |
@@ -255,6 +256,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0496-next-greater-element-i](https://github.com/sayan629/Leet_Code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sayan629/Leet_Code/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sayan629/Leet_Code/tree/master/0739-daily-temperatures) |
+| [1096-brace-expansion-ii](https://github.com/sayan629/Leet_Code/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -320,6 +322,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0409-longest-palindrome](https://github.com/sayan629/Leet_Code/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/sayan629/Leet_Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/sayan629/Leet_Code/tree/master/0496-next-greater-element-i) |
+| [1096-brace-expansion-ii](https://github.com/sayan629/Leet_Code/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sayan629/Leet_Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sayan629/Leet_Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sayan629/Leet_Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -349,6 +352,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0424-longest-repeating-character-replacement](https://github.com/sayan629/Leet_Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/sayan629/Leet_Code/tree/master/0647-palindromic-substrings) |
 | [0940-distinct-subsequences-ii](https://github.com/sayan629/Leet_Code/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/sayan629/Leet_Code/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sayan629/Leet_Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sayan629/Leet_Code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/sayan629/Leet_Code/tree/master/3498-reverse-degree-of-a-string) |
@@ -543,4 +547,12 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/sayan629/Leet_Code/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/sayan629/Leet_Code/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/sayan629/Leet_Code/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
