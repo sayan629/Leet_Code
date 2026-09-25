@@ -135,6 +135,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sayan629/Leet_Code/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sayan629/Leet_Code/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sayan629/Leet_Code/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sayan629/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sayan629/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sayan629/Leet_Code/tree/master/0217-contains-duplicate) |
@@ -219,6 +220,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0141-linked-list-cycle](https://github.com/sayan629/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/sayan629/Leet_Code/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sayan629/Leet_Code/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/sayan629/Leet_Code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sayan629/Leet_Code/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sayan629/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/sayan629/Leet_Code/tree/master/0392-is-subsequence) |
@@ -373,6 +375,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0043-multiply-strings](https://github.com/sayan629/Leet_Code/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/sayan629/Leet_Code/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sayan629/Leet_Code/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/sayan629/Leet_Code/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sayan629/Leet_Code/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sayan629/Leet_Code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sayan629/Leet_Code/tree/master/0268-missing-number) |
