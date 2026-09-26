@@ -162,6 +162,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sayan629/Leet_Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/sayan629/Leet_Code/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sayan629/Leet_Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sayan629/Leet_Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sayan629/Leet_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3033-modify-the-matrix](https://github.com/sayan629/Leet_Code/tree/master/3033-modify-the-matrix) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sayan629/Leet_Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -328,6 +329,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sayan629/Leet_Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sayan629/Leet_Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sayan629/Leet_Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sayan629/Leet_Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sayan629/Leet_Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/sayan629/Leet_Code/tree/master/3731-find-missing-elements) |
 ## String
@@ -356,6 +358,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0940-distinct-subsequences-ii](https://github.com/sayan629/Leet_Code/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/sayan629/Leet_Code/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sayan629/Leet_Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sayan629/Leet_Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sayan629/Leet_Code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/sayan629/Leet_Code/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
