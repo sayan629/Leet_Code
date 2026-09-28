@@ -261,6 +261,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0739-daily-temperatures](https://github.com/sayan629/Leet_Code/tree/master/0739-daily-temperatures) |
 | [1096-brace-expansion-ii](https://github.com/sayan629/Leet_Code/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sayan629/Leet_Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sayan629/Leet_Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -360,6 +361,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [1096-brace-expansion-ii](https://github.com/sayan629/Leet_Code/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sayan629/Leet_Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sayan629/Leet_Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sayan629/Leet_Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sayan629/Leet_Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sayan629/Leet_Code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/sayan629/Leet_Code/tree/master/3498-reverse-degree-of-a-string) |
@@ -569,4 +571,5 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sayan629/Leet_Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sayan629/Leet_Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
