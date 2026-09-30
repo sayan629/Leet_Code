@@ -128,6 +128,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0033-search-in-rotated-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/sayan629/Leet_Code/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/sayan629/Leet_Code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sayan629/Leet_Code/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/sayan629/Leet_Code/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0088-merge-sorted-array) |
@@ -390,6 +391,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0007-reverse-integer](https://github.com/sayan629/Leet_Code/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/sayan629/Leet_Code/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/sayan629/Leet_Code/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/sayan629/Leet_Code/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/sayan629/Leet_Code/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sayan629/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sayan629/Leet_Code/tree/master/0189-rotate-array) |
@@ -549,6 +551,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sayan629/Leet_Code/tree/master/0048-rotate-image) |
 | [0766-toeplitz-matrix](https://github.com/sayan629/Leet_Code/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/sayan629/Leet_Code/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/sayan629/Leet_Code/tree/master/0867-transpose-matrix) |
