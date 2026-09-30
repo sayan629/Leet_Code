@@ -172,6 +172,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [3524-find-x-value-of-array-i](https://github.com/sayan629/Leet_Code/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/sayan629/Leet_Code/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sayan629/Leet_Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sayan629/Leet_Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/sayan629/Leet_Code/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sayan629/Leet_Code/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/sayan629/Leet_Code/tree/master/3903-smallest-stable-index-i) |
@@ -340,6 +341,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sayan629/Leet_Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sayan629/Leet_Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sayan629/Leet_Code/tree/master/3483-unique-3-digit-even-numbers) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sayan629/Leet_Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/sayan629/Leet_Code/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -446,6 +448,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0268-missing-number](https://github.com/sayan629/Leet_Code/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/sayan629/Leet_Code/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/sayan629/Leet_Code/tree/master/0371-sum-of-two-integers) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sayan629/Leet_Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
 | ------- |
@@ -552,6 +555,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [1572-matrix-diagonal-sum](https://github.com/sayan629/Leet_Code/tree/master/1572-matrix-diagonal-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sayan629/Leet_Code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3033-modify-the-matrix](https://github.com/sayan629/Leet_Code/tree/master/3033-modify-the-matrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sayan629/Leet_Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Geometry
 |  |
 | ------- |
@@ -581,6 +585,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/sayan629/Leet_Code/tree/master/1096-brace-expansion-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sayan629/Leet_Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bracket Sequences
 |  |
 | ------- |
