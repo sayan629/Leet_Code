@@ -121,6 +121,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sayan629/Leet_Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/sayan629/Leet_Code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sayan629/Leet_Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sayan629/Leet_Code/tree/master/0018-4sum) |
@@ -178,6 +179,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sayan629/Leet_Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/sayan629/Leet_Code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sayan629/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
@@ -282,6 +284,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sayan629/Leet_Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
