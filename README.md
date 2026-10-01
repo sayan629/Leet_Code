@@ -64,9 +64,9 @@ The goal of this repo is to:
 | Difficulty | Solved |
 |:----------:|:------:|
 | 🟢 Easy    | 22      |
-| 🟡 Medium  | 10     |
-| 🔴 Hard    | 1      |
-| **Total**  | **33**  |
+| 🟡 Medium  | 13     |
+| 🔴 Hard    | 2      |
+| **Total**  | **37**  |
 
 > *💾 SQL Problems Tracker*
 
