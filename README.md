@@ -220,6 +220,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0016-3sum-closest](https://github.com/sayan629/Leet_Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sayan629/Leet_Code/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sayan629/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sayan629/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/sayan629/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sayan629/Leet_Code/tree/master/0125-valid-palindrome) |
@@ -355,6 +356,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0012-integer-to-roman](https://github.com/sayan629/Leet_Code/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/sayan629/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sayan629/Leet_Code/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sayan629/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/sayan629/Leet_Code/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/sayan629/Leet_Code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sayan629/Leet_Code/tree/master/0058-length-of-last-word) |
@@ -610,4 +612,20 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sayan629/Leet_Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sayan629/Leet_Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sayan629/Leet_Code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sayan629/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sayan629/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sayan629/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sayan629/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
