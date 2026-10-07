@@ -375,6 +375,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0151-reverse-words-in-a-string](https://github.com/sayan629/Leet_Code/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sayan629/Leet_Code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sayan629/Leet_Code/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/sayan629/Leet_Code/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/sayan629/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/sayan629/Leet_Code/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/sayan629/Leet_Code/tree/master/0409-longest-palindrome) |
@@ -612,10 +613,12 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sayan629/Leet_Code/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/sayan629/Leet_Code/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sayan629/Leet_Code/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/sayan629/Leet_Code/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sayan629/Leet_Code/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sayan629/Leet_Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bracket Sequences
