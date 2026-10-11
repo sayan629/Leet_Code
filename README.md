@@ -163,6 +163,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sayan629/Leet_Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sayan629/Leet_Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sayan629/Leet_Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1528-shuffle-string](https://github.com/sayan629/Leet_Code/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/sayan629/Leet_Code/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sayan629/Leet_Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sayan629/Leet_Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -401,6 +402,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sayan629/Leet_Code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sayan629/Leet_Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sayan629/Leet_Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1528-shuffle-string](https://github.com/sayan629/Leet_Code/tree/master/1528-shuffle-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sayan629/Leet_Code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sayan629/Leet_Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sayan629/Leet_Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
