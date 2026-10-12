@@ -563,6 +563,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [1068-product-sales-analysis-i](https://github.com/sayan629/Leet_Code/tree/master/1068-product-sales-analysis-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/sayan629/Leet_Code/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/sayan629/Leet_Code/tree/master/1148-article-views-i) |
+| [1174-immediate-food-delivery-ii](https://github.com/sayan629/Leet_Code/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/sayan629/Leet_Code/tree/master/1193-monthly-transactions-i) |
 | [1251-average-selling-price](https://github.com/sayan629/Leet_Code/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/sayan629/Leet_Code/tree/master/1280-students-and-examinations) |
