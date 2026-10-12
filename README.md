@@ -204,6 +204,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0268-missing-number](https://github.com/sayan629/Leet_Code/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/sayan629/Leet_Code/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/sayan629/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/sayan629/Leet_Code/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/sayan629/Leet_Code/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/sayan629/Leet_Code/tree/master/1096-brace-expansion-ii) |
@@ -354,6 +355,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0268-missing-number](https://github.com/sayan629/Leet_Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sayan629/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/sayan629/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/sayan629/Leet_Code/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/sayan629/Leet_Code/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/sayan629/Leet_Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/sayan629/Leet_Code/tree/master/0496-next-greater-element-i) |
@@ -388,6 +390,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0242-valid-anagram](https://github.com/sayan629/Leet_Code/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/sayan629/Leet_Code/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/sayan629/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/sayan629/Leet_Code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sayan629/Leet_Code/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/sayan629/Leet_Code/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/sayan629/Leet_Code/tree/master/0412-fizz-buzz) |
@@ -491,6 +494,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0268-missing-number](https://github.com/sayan629/Leet_Code/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/sayan629/Leet_Code/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/sayan629/Leet_Code/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/sayan629/Leet_Code/tree/master/0389-find-the-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sayan629/Leet_Code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sayan629/Leet_Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
