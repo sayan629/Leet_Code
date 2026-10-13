@@ -152,6 +152,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0561-array-partition](https://github.com/sayan629/Leet_Code/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/sayan629/Leet_Code/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sayan629/Leet_Code/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/sayan629/Leet_Code/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/sayan629/Leet_Code/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/sayan629/Leet_Code/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/sayan629/Leet_Code/tree/master/0835-image-overlap) |
@@ -363,6 +364,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0409-longest-palindrome](https://github.com/sayan629/Leet_Code/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/sayan629/Leet_Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/sayan629/Leet_Code/tree/master/0496-next-greater-element-i) |
+| [0705-design-hashset](https://github.com/sayan629/Leet_Code/tree/master/0705-design-hashset) |
 | [1096-brace-expansion-ii](https://github.com/sayan629/Leet_Code/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sayan629/Leet_Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sayan629/Leet_Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -514,6 +516,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0143-reorder-list](https://github.com/sayan629/Leet_Code/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sayan629/Leet_Code/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sayan629/Leet_Code/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/sayan629/Leet_Code/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/sayan629/Leet_Code/tree/master/0876-middle-of-the-linked-list) |
 ## Brainteaser
 |  |
@@ -692,4 +695,12 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sayan629/Leet_Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/sayan629/Leet_Code/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/sayan629/Leet_Code/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
