@@ -45,9 +45,9 @@ The goal of this repo is to:
 | Difficulty | Solved |
 |:----------:|:------:|
 | 🟢 Easy    | 56     |
-| 🟡 Medium  | 55     |
+| 🟡 Medium  | 56     |
 | 🔴 Hard    | 13     | 
-| **Total**  | ![](https://progress-bar.xyz/124/?scale=1&suffix=%20&color=e74c3c&width=140) | 
+| **Total**  | ![](https://progress-bar.xyz/125/?scale=1&suffix=%20&color=e74c3c&width=140) | 
 
 > *Problems Tracker — DSA!!*
 
