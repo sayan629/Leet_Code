@@ -44,10 +44,10 @@ The goal of this repo is to:
 
 | Difficulty | Solved |
 |:----------:|:------:|
-| 🟢 Easy    | 56     |
+| 🟢 Easy    | 57     |
 | 🟡 Medium  | 56     |
 | 🔴 Hard    | 13     | 
-| **Total**  | ![](https://progress-bar.xyz/125/?scale=1&suffix=%20&color=e74c3c&width=140) | 
+| **Total**  | ![](https://progress-bar.xyz/126/?scale=1&suffix=%20&color=e74c3c&width=140) | 
 
 > *Problems Tracker — DSA!!*
 
@@ -64,9 +64,9 @@ The goal of this repo is to:
 | Difficulty | Solved |
 |:----------:|:------:|
 | 🟢 Easy    | 24      |
-| 🟡 Medium  | 15     |
+| 🟡 Medium  | 16     |
 | 🔴 Hard    | 3      |
-| **Total**  | **42**  |
+| **Total**  | **43**  |
 
 > *💾 SQL Problems Tracker*
 
