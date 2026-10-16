@@ -451,6 +451,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0258-add-digits](https://github.com/sayan629/Leet_Code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sayan629/Leet_Code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sayan629/Leet_Code/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sayan629/Leet_Code/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/sayan629/Leet_Code/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/sayan629/Leet_Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sayan629/Leet_Code/tree/master/0415-add-strings) |
@@ -511,6 +512,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0231-power-of-two](https://github.com/sayan629/Leet_Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sayan629/Leet_Code/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/sayan629/Leet_Code/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/sayan629/Leet_Code/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/sayan629/Leet_Code/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/sayan629/Leet_Code/tree/master/0389-find-the-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sayan629/Leet_Code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -548,6 +550,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0206-reverse-linked-list](https://github.com/sayan629/Leet_Code/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sayan629/Leet_Code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sayan629/Leet_Code/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sayan629/Leet_Code/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/sayan629/Leet_Code/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sayan629/Leet_Code/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting Sort
