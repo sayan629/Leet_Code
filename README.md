@@ -165,6 +165,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sayan629/Leet_Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sayan629/Leet_Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1528-shuffle-string](https://github.com/sayan629/Leet_Code/tree/master/1528-shuffle-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sayan629/Leet_Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/sayan629/Leet_Code/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sayan629/Leet_Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sayan629/Leet_Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -194,6 +195,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0004-median-of-two-sorted-arrays](https://github.com/sayan629/Leet_Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/sayan629/Leet_Code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sayan629/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sayan629/Leet_Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sorting
 |  |
 | ------- |
@@ -273,6 +275,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0940-distinct-subsequences-ii](https://github.com/sayan629/Leet_Code/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/sayan629/Leet_Code/tree/master/1025-divisor-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sayan629/Leet_Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sayan629/Leet_Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sayan629/Leet_Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sayan629/Leet_Code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sayan629/Leet_Code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -463,6 +466,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0877-stone-game](https://github.com/sayan629/Leet_Code/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/sayan629/Leet_Code/tree/master/1025-divisor-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sayan629/Leet_Code/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sayan629/Leet_Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sayan629/Leet_Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sayan629/Leet_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sayan629/Leet_Code/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -545,6 +549,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | ------- |
 | [0070-climbing-stairs](https://github.com/sayan629/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sayan629/Leet_Code/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sayan629/Leet_Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Recursion
 |  |
 | ------- |
@@ -624,6 +629,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sayan629/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sayan629/Leet_Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sayan629/Leet_Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -634,6 +640,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sayan629/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sayan629/Leet_Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sayan629/Leet_Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
 |  |
@@ -654,6 +661,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sayan629/Leet_Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sayan629/Leet_Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Euclidean Algorithm
 |  |
@@ -726,4 +734,16 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sayan629/Leet_Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sayan629/Leet_Code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sayan629/Leet_Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sayan629/Leet_Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sayan629/Leet_Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
