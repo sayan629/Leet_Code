@@ -635,17 +635,20 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sayan629/Leet_Code/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sayan629/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sayan629/Leet_Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sayan629/Leet_Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sayan629/Leet_Code/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sayan629/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sayan629/Leet_Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sayan629/Leet_Code/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sayan629/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sayan629/Leet_Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sayan629/Leet_Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -693,6 +696,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sayan629/Leet_Code/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sayan629/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/sayan629/Leet_Code/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sayan629/Leet_Code/tree/master/1096-brace-expansion-ii) |
