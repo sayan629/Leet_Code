@@ -438,6 +438,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sayan629/Leet_Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sayan629/Leet_Code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/sayan629/Leet_Code/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/sayan629/Leet_Code/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Queue
 |  |
 | ------- |
