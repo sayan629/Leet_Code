@@ -191,6 +191,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [3886-sum-of-sortable-integers](https://github.com/sayan629/Leet_Code/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/sayan629/Leet_Code/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sayan629/Leet_Code/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/sayan629/Leet_Code/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
