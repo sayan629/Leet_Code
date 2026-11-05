@@ -166,6 +166,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sayan629/Leet_Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1254-number-of-closed-islands](https://github.com/sayan629/Leet_Code/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sayan629/Leet_Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sayan629/Leet_Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sayan629/Leet_Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1528-shuffle-string](https://github.com/sayan629/Leet_Code/tree/master/1528-shuffle-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sayan629/Leet_Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -230,6 +231,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0561-array-partition](https://github.com/sayan629/Leet_Code/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/sayan629/Leet_Code/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sayan629/Leet_Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sayan629/Leet_Code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sayan629/Leet_Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sayan629/Leet_Code/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -272,6 +274,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0845-longest-mountain-in-array](https://github.com/sayan629/Leet_Code/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/sayan629/Leet_Code/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/sayan629/Leet_Code/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sayan629/Leet_Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sayan629/Leet_Code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -352,6 +355,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [1004-max-consecutive-ones-iii](https://github.com/sayan629/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sayan629/Leet_Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sayan629/Leet_Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sayan629/Leet_Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sayan629/Leet_Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sayan629/Leet_Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sayan629/Leet_Code/tree/master/2089-find-target-indices-after-sorting-array) |
