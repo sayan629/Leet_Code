@@ -645,6 +645,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/sayan629/Leet_Code/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0608-tree-node](https://github.com/sayan629/Leet_Code/tree/master/0608-tree-node) |
 | [0620-not-boring-movies](https://github.com/sayan629/Leet_Code/tree/master/0620-not-boring-movies) |
+| [0627-swap-sex-of-employees](https://github.com/sayan629/Leet_Code/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/sayan629/Leet_Code/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/sayan629/Leet_Code/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/sayan629/Leet_Code/tree/master/1075-project-employees-i) |
