@@ -38,7 +38,6 @@ class Solution {
             
             busyServers.offer(new int[]{currTime + tasks[j], bestServer[0], bestServer[1]});
         }
-        
         return ans;
     }
 }
