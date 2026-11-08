@@ -165,6 +165,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [1004-max-consecutive-ones-iii](https://github.com/sayan629/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sayan629/Leet_Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1254-number-of-closed-islands](https://github.com/sayan629/Leet_Code/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sayan629/Leet_Code/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sayan629/Leet_Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sayan629/Leet_Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sayan629/Leet_Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -482,6 +483,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0169-majority-element](https://github.com/sayan629/Leet_Code/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/sayan629/Leet_Code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sayan629/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/sayan629/Leet_Code/tree/master/1267-count-servers-that-communicate) |
 ## Math
 |  |
 | ------- |
@@ -690,6 +692,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0100-same-tree](https://github.com/sayan629/Leet_Code/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sayan629/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/sayan629/Leet_Code/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sayan629/Leet_Code/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sayan629/Leet_Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sayan629/Leet_Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sayan629/Leet_Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -708,6 +711,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0835-image-overlap](https://github.com/sayan629/Leet_Code/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/sayan629/Leet_Code/tree/master/0867-transpose-matrix) |
 | [1254-number-of-closed-islands](https://github.com/sayan629/Leet_Code/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sayan629/Leet_Code/tree/master/1267-count-servers-that-communicate) |
 | [1572-matrix-diagonal-sum](https://github.com/sayan629/Leet_Code/tree/master/1572-matrix-diagonal-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sayan629/Leet_Code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3033-modify-the-matrix](https://github.com/sayan629/Leet_Code/tree/master/3033-modify-the-matrix) |
@@ -754,6 +758,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 | [0301-remove-invalid-parentheses](https://github.com/sayan629/Leet_Code/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sayan629/Leet_Code/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/sayan629/Leet_Code/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sayan629/Leet_Code/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sayan629/Leet_Code/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sayan629/Leet_Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
@@ -805,6 +810,7 @@ If you find this repository helpful, consider giving it a **star** ⭐ — it mo
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/sayan629/Leet_Code/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/sayan629/Leet_Code/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sayan629/Leet_Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sayan629/Leet_Code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
