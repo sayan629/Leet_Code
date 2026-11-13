@@ -46,8 +46,8 @@ The goal of this repo is to:
 |:----------:|:------:|
 | 🟢 Easy    | 68     |
 | 🟡 Medium  | 73     |
-| 🔴 Hard    | 19     | 
-| **Total**  | 160    | 
+| 🔴 Hard    | 20     | 
+| **Total**  | 161    | 
 
 > *Problems Tracker — DSA!!*
 
