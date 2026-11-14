@@ -44,10 +44,10 @@ The goal of this repo is to:
 
 | Difficulty | Solved |
 |:----------:|:------:|
-| 🟢 Easy    | 68     |
+| 🟢 Easy    | 69     |
 | 🟡 Medium  | 73     |
 | 🔴 Hard    | 20     | 
-| **Total**  | 161    | 
+| **Total**  | 162    | 
 
 > *Problems Tracker — DSA!!*
 
