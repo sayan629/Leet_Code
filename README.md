@@ -45,9 +45,9 @@ The goal of this repo is to:
 | Difficulty | Solved |
 |:----------:|:------:|
 | 🟢 Easy    | 70     |
-| 🟡 Medium  | 76     |
+| 🟡 Medium  | 78     |
 | 🔴 Hard    | 22     | 
-| **Total**  | 168    | 
+| **Total**  | 170    | 
 
 > *Problems Tracker — DSA!!*
 
